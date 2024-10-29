@@ -1,0 +1,57 @@
+# .gitignore
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+*.so
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# User files
+*.user
+*.user.*
